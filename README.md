@@ -8,17 +8,21 @@ Hello! I'm Sovanpisoth Yan, a Computer Science student specializing in Software 
 
 ## Technologies Usage
 ### Languages
-![HTML](https://img.icons8.com/color/48/html-5--v1.png)
-![CSS](https://img.icons8.com/color/48/css3.png)
-![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
-![Tailwind](https://img.icons8.com/fluency/48/tailwind_css.png)
-
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind" />
+</p>
 ### Tools
-![Github](https://img.icons8.com/sf-regular-filled/48/github.png)
-![Canva](https://img.icons8.com/fluency/48/canva.png)
-![Figma](https://img.icons8.com/color/48/figma--v1.png)
+<p align="center">
+  <img src="https://img.icons8.com/sf-regular-filled/48/github.png" alt="Github" />
+  <img src="https://img.icons8.com/fluency/48/canva.png" alt="Canva" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
+</p>
 
 ## Projects
 [**Rean2Learn**](https://github.com/Sotchi10/Rean2Learn-Student-Workflow-Productivity-System) – Web-based student workflow & productivity system using HTML, CSS, Tailwind, and JavaScript.
 
+## Social
 
