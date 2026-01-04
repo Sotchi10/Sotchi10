@@ -22,7 +22,5 @@ I am a Computer Science student specializing in Software Engineering, with a str
     <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
   </p>
 
-## Projects
-[**Rean2Learn**](https://github.com/Sotchi10/Rean2Learn-Student-Workflow-Productivity-System) – Web-based student workflow & productivity system using HTML, CSS, Tailwind, and JavaScript.
 
 
