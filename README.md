@@ -7,22 +7,5 @@ I am a Computer Science student specializing in Software Engineering, with a str
 <br> Vist my Portfolio ->
 <a href="https://github.com/Sotchi10/Sotchi-Portfolio.git">Github</a> 
 
-## Tech Stacks
-
-### Languages
-  <p>
-    <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
-    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
-    <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind" />
-  </p>
-  
-### Tools
-  <p>
-    <img src="https://img.icons8.com/sf-regular-filled/48/github.png" alt="Github" />
-    <img src="https://img.icons8.com/fluency/48/canva.png" alt="Canva" />
-    <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
-  </p>
-
 
 
